@@ -36,7 +36,10 @@
         <hr>
         <div class="d-flex align-items-center py-2 px-4 bg-light rounded-3 border">
             <div class="bi-person-circle me-3 fs-1"></div>
-            <h4 class="mb-0">Well done! this is {{ $pageTitle }}.</h4>
+            <div>
+                <h4 class="mb-0">Well done! this is {{ $pageTitle }}.</h4>
+                <small class="text-muted">Zaki Irsyada Putra (108052500069) &middot; Kelas IS-08-03</small>
+            </div>
         </div>
     </div>
 

@@ -56,10 +56,10 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <td>Purnama</td>
-                        <td>Anaking</td>
-                        <td>purnama.anaking@gmail.com</td>
-                        <td>20</td>
+                        <td>Zaki</td>
+                        <td>Irsyada Putra</td>
+                        <td>irsyadazaki77@gmail.com</td>
+                        <td>19</td>
                         <td>
                             <div class="d-flex">
                                 <a href="{{ route('employees.show', ['employee' => 1]) }}" class="btn btn-outline-dark btn-sm me-2"><i class="bi-person-lines-fill"></i></a>
@@ -76,10 +76,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Adzanil</td>
-                        <td>Rachmadhi</td>
-                        <td>adzanil.rachmadhi@gmail.com</td>
-                        <td>25</td>
+                        <td>M Nabil</td>
+                        <td>Alhakim</td>
+                        <td>nabil.alhakim@gmail.com</td>
+                        <td>20</td>
                         <td>
                             <div class="d-flex">
                                 <a href="{{ route('employees.show', ['employee' => 2]) }}" class="btn btn-outline-dark btn-sm me-2"><i class="bi-person-lines-fill"></i></a>
@@ -96,10 +96,10 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Berlian</td>
-                        <td>Rahmy</td>
-                        <td>berlian.rahmy@gmail.com</td>
-                        <td>23</td>
+                        <td>Daniel</td>
+                        <td>Harley Kamasaan</td>
+                        <td>daniel.harley@gmail.com</td>
+                        <td>20</td>
                         <td>
                             <div class="d-flex">
                                 <a href="{{ route('employees.show', ['employee' => 3]) }}" class="btn btn-outline-dark btn-sm me-2"><i class="bi-person-lines-fill"></i></a>
